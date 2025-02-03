@@ -13,7 +13,7 @@ const AboutPage: React.FC = () => {
     {
       name: "Prashad Nath",
       role: "Lead Developer",
-      image: "",
+      image: "/images/Prashad_DP.jpg",
       bio: "Full-stack developer with expertise in speech recognition and AI technologies.",
       social: {
         github: "https://github.com",
@@ -24,7 +24,7 @@ const AboutPage: React.FC = () => {
     {
       name: "Amar Jyoti Nath",
       role: "UI/UX Designer",
-      image: "",
+      image: "/images/amar_dp.jpeg",
       bio: "Passionate about creating accessible and intuitive user interfaces.",
       social: {
         github: "https://github.com",
